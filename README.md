@@ -19,6 +19,7 @@
 ## Запуск
 
 `pip install -r requirements.txt`
+
 `python ppo_example.py`
 
 ## Дальнейшие действия
