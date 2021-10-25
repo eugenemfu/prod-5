@@ -18,6 +18,8 @@
 
 ## Запуск
 
+`git clone https://github.com/g-e0s/mapgen.git`
+
 `pip install -r requirements.txt`
 
 `python ppo_example.py`
